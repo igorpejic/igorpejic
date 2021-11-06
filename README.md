@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+You can look at some projects I contributed to below, or read more about me on: [http://igorpejic.com](http://igorpejic.com).
+
+Thanks for visiting!
 <!--
 **igorpejic/igorpejic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
